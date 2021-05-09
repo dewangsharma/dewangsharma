@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dewangsharma
+- 👀 I’m interested in development 
+- 🌱 I’m currently learning design principals and micro-services
+- 💞️ I’m looking to collaborate on learning micro-services and large projects
+- 📫 Feel free to contact me at dewang.sharma@gmail.com
